@@ -15,7 +15,7 @@
         "node-red-node-watson":"*",
         "node-red-node-openwhisk":"*",
         "node-red-node-cf-cloudant":"*",
-        "node-red-contrib-scx-ibmiotapp":"*",
+        "node-red-contrib-scx-ibmiotapp":"nodes/node-red-contrib-scx-ibmiotapp",
         "node-red-contrib-ibm-wiotp-device-ops": "*",
         "node-red-contrib-iot-virtual-device": "*",
         "node-red-contrib-web-worldmap": "*",
